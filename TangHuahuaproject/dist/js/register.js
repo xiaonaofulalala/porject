@@ -1,0 +1,1 @@
+require(["config"],function(){require(["url"],function(e){$.get(e.url+"/v1/register.php",function(e){console.log(e)})})});

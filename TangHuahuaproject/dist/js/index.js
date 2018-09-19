@@ -1,0 +1,1 @@
+require(["config"],function(){require(["jquery","register","header_focus","footer","tab","shoppost"],function(i,n,t,e,o){i("#btn").click(function(){n.init(),n.regedit()}),i("#btn1").click(function(){n.init1(),n.login()}),e.init(),e.init1()})});

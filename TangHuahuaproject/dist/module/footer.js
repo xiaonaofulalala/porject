@@ -1,0 +1,1 @@
+define(function(){function t(){}return t.prototype.init=function(){$("#footer").load("/html/template/footer.html",function(){})},t.prototype.init1=function(){$("#footer1").load("/html/template/footer.html",function(){})},new t});

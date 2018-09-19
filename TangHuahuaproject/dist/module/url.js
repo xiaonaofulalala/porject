@@ -1,0 +1,1 @@
+define(function(){return{url:"http://localhost/api"}});
